@@ -5,7 +5,7 @@ Usage
 
 To use the password generator, simply run the password_generator.py script in a Python environment. The default length of the generated password is 12 characters, but you can adjust this by changing the length variable in the script.
 
-# define password length
+#define password length
 length = 12
 
 The script will output the generated password in the terminal.
