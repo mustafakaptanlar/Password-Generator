@@ -12,4 +12,7 @@ length = 12
 The script will output the generated password in the terminal.
 
 $ python password_generator.py
+
+Output:
+
 Your password is: W8i&jN#Xb*aK
